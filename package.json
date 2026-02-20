@@ -1,0 +1,17 @@
+{
+  "name": "biriba-multiplayer",
+  "version": "1.0.0",
+  "description": "Multiplayer Biriba card game with Socket.IO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  },
+  "keywords": ["biriba", "card-game", "multiplayer", "socket.io"],
+  "author": "",
+  "license": "MIT"
+}
